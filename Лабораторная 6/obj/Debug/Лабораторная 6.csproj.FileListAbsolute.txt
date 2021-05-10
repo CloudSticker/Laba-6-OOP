@@ -1,0 +1,30 @@
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.csprojAssemblyReference.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\MainWindow.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\App.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6_MarkupCompile.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6_MarkupCompile.lref
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\bin\Debug\Лабораторная 6.exe.config
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\bin\Debug\Лабораторная 6.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\bin\Debug\Лабораторная 6.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\MainWindow.baml
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.g.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная_6.Properties.Resources.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.csproj.GenerateResource.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Лабораторная 6\obj\Debug\Лабораторная 6.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\bin\Debug\Лабораторная 6.exe.config
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\bin\Debug\Лабораторная 6.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\bin\Debug\Лабораторная 6.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.csprojAssemblyReference.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\MainWindow.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\App.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6_MarkupCompile.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6_MarkupCompile.lref
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\MainWindow.baml
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.g.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная_6.Properties.Resources.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.csproj.GenerateResource.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 6\Laba 6 OOP\Лабораторная 6\obj\Debug\Лабораторная 6.pdb
